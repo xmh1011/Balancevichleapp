@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiniBalance</string>
+    <string name="bt_not_enabled_leaving">BT Disable. Exit!</string>
+    <string name="button_scan">Finding Devices</string>
+    <string name="connect">Connect</string>
+    <string name="discoverable">Device Visibility</string>
+    <string name="none_found">No Devices Found</string>
+    <string name="none_paired">No Paired Device</string>
+    <string name="not_connected">No Device Connected</string>
+    <string name="scanning">Scanning Devices</string>
+    <string name="select_device">Choose to Connect</string>
+    <string name="send">Send</string>
+    <string name="title_connected_to">Connected: </string>
+    <string name="title_connecting">Connecting……</string>
+    <string name="title_not_connected">No Connection</string>
+    <string name="title_other_devices">Other Devices</string>
+    <string name="title_paired_devices">Paired Devices</string>
+</resources>

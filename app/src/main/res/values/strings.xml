@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <string name="app_name">MiniBalance</string>
+
+    <!--  BluetoothChat -->
+    <string name="send">Send</string>
+    <string name="not_connected">No Device Connected</string>
+    <string name="bt_not_enabled_leaving">BT Disable. Exit!</string>
+    <string name="title_connecting">Connecting……</string>
+    <string name="title_connected_to">Connected: </string>
+    <string name="title_not_connected">No Connection</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">Scanning Devices</string>
+    <string name="select_device">Choose to Connect</string>
+    <string name="none_paired">No Paired Device</string>
+    <string name="none_found">No Devices Found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Devices</string>
+    <string name="button_scan">Finding Devices</string>
+
+    <!-- Options Menu -->
+    <string name="connect">Connect</string>
+    <string name="discoverable">Device Visibility</string>
+</resources>
